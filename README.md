@@ -42,6 +42,10 @@ Git clone
 3. $ open soularis.maxproj
 ```
 
+## Dependencies
+
+- `JASCH Package` from Package Manager
+
 ## License
 
 The GNU GPL v.3 License
