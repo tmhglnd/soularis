@@ -2,6 +2,8 @@
 
 A 3-dimensional sequencer analogues to a solar-system.
 
+**[Support my work by becoming a Patron](https://www.patreon.com/bePatron?u=9649817)**
+
 ![Screenshot from the environment](media/screenshot_2.png)
 
 ## About
